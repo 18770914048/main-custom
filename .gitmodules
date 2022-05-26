@@ -1,0 +1,3 @@
+[submodule "base/base-custom"]
+	path = base/base-custom
+	url = git@github.com:18770914048/base-custom.git
